@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+    <dadosPessoais>
+        <nome>Bernardo Tuzin</nome>
+        <endereco>Rua General, 123, São Borja, RS, Brasil</endereco>
+        <telefone>(12) 1234-4321</telefone>
+        <email>bernardo.tuzin@gmail.com</email>
+        <dataNascimento>15-09-2003</dataNascimento>
+    </dadosPessoais>
+
+    <formacao>
+        <curso>
+            <nomeCurso>Sistemas de Informação</nomeCurso>
+            <instituicao>Instituto Federal Farroupilha</instituicao>
+            <anoConclusao>2024</anoConclusao>
+        </curso>
+    </formacao>
+
+    <idiomas>
+        <idioma>
+            <nome>Inglês</nome>
+            <nivel>Avançado</nivel>
+        </idioma>
+        <idioma>
+            <nome>Espanhol</nome>
+            <nivel>Intermediário</nivel>
+        </idioma>
+    </idiomas>
+
+    <cursosAdicionais>
+        <curso>
+            <nomeCurso>Desenvolvimento Web</nomeCurso>
+            <instituicao>Curso Online</instituicao>
+            <cargaHoraria>120 horas</cargaHoraria>
+            <anoConclusao>2018</anoConclusao>
+        </curso>
+           </cursosAdicionais>
+</curriculo>
