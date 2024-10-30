@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receituario>
+    <dadosPaciente>
+        <nome>Bernardo Tuzin</nome>
+        <dataNascimento>15-09-2003</dataNascimento>
+        <sexo>Masculino</sexo>
+        <identificacao>
+            <cpf>123.456.789-00</cpf>
+        </identificacao>
+        <contato>
+            <telefone>(12) 1234-4321</telefone>
+            <email>bernardo.tuzin@gmail.com</email>
+        </contato>
+    </dadosPaciente>
+
+    <dadosMedico>
+        <nome>Dr. João Pereira</nome>
+        <especialidade>Clínico Geral</especialidade>
+        <contato>
+            <telefone>(11) 34567-8901</telefone>
+            <email>dr.joao.pereira@hospitalivangoulart.com</email>
+        </contato>
+    </dadosMedico>
+
+    <consulta>
+        <data>30-10-2024</data>
+        <diagnostico>Hipertensão arterial</diagnostico>
+        <observacoes>Paciente apresenta histórico familiar de hipertensão e colesterol alto.</observacoes>
+    </consulta>
+
+    <prescricoes>
+        <medicamento>
+            <nome>Losartana</nome>
+            <dosagem>50 mg</dosagem>
+            <frequencia>1 comprimido pela manhã</frequencia>
+            <duracao>30 dias</duracao>
+            <instrucoesAdicionais>Monitorar pressão arterial semanalmente</instrucoesAdicionais>
+        </medicamento>
+        <medicamento>
+            <nome>Hidroclorotiazida</nome>
+            <dosagem>25 mg</dosagem>
+            <frequencia>1 comprimido pela manhã</frequencia>
+            <duracao>30 dias</duracao>
+            <instrucoesAdicionais>Beber bastante água durante o tratamento</instrucoesAdicionais>
+        </medicamento>
+    </prescricoes>
+    
+    <orientacoesGerais>
+        <orientacao>Manter uma dieta com baixo teor de sódio</orientacao>
+        <orientacao>Praticar atividades físicas regularmente</orientacao>
+    </orientacoesGerais>
+</receituario>
